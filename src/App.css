@@ -1,0 +1,65 @@
+.app-container {
+    display: flex;
+}
+
+.content {
+    width: 100%;
+    position: relative;
+}
+
+.postListCard {
+    margin: 30px 50px;
+}
+
+.deleteButton {
+    cursor: pointer;
+}
+
+.postButton {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.postForm {
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    min-width: 100%;
+}
+
+.footer-logo-list {
+    margin-right: 30px;
+    justify-content: flex-end;
+    padding: 0px;
+}
+
+.logo {
+    margin-right: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.post-container {
+    max-width: 1480px;
+    max-height: 720px;
+    margin: 2% 4%;
+    padding: 10px;
+    overflow-x: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2px;
+    border: 1px solid #ccc;
+}
+
+@media (max-width: 600px) {
+    .post-container {
+        padding: 10px;
+    }
+}
