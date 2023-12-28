@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Developed a social media application where users can create, delete posts, and express reactions.
+# Ensured code modularity by adhering to the separation of logic and UI principles.
+![ Social Media User Interface ](https://github.com/Ankitda/Social-Media/assets/91916802/429ae6d7-599e-4807-82ca-db2ac40ec8ba)
