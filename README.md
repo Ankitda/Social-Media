@@ -30,7 +30,8 @@ The main Functions of this Application are as follows :
 **State Management :**
   - Managed complex state logic efficiently using the `useReducer` React hook in a dedicated space.
   - Separated logic and UI, following industry-standard practices for maintainability.
-**Icon Integration:**
+    
+**Icon Integration :**
   - Imported icons seamlessly from the `react-icon` library to enhance visual elements.
     
 ![React-icons](https://github.com/Ankitda/Social-Media/assets/91916802/0db1deb5-f7e6-46eb-9efe-8e39cfe42af5)
