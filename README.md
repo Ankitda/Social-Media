@@ -1,5 +1,7 @@
 ### Developed a social media application where users can create, delete posts, and express reactions, Ensured code modularity by adhering to the separation of logic and UI principles.
 
+You can try it at **[SocialMedia]**(https://sharevista.netlify.app)
+
 The main Functions of this Application are as follows : 
 
  > Enabled post creation functionality, allowing users to add posts.
